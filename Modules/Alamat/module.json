@@ -1,0 +1,11 @@
+{
+    "name": "Alamat",
+    "alias": "alamat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Alamat\\Providers\\AlamatServiceProvider"
+    ],
+    "files": []
+}
